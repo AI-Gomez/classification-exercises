@@ -1,2 +1,2 @@
 # Howdy!
-This is a repository for Data Acquisitions and Classification Exercises!
+This is a repository for Data Acquisitions and Classification Exercises.
